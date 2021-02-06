@@ -15,12 +15,12 @@ $ brew install ffmpeg
 ```
 
 # Usage
-Download the convert.sh from github or run the command:
+Download the convert.sh file from github or run the command:
 ```
-$ git clone github.com/kerrypotter/mp4-to-mp3
+$ git clone https://github.com/kerrypotter/mp4-to-mp3
 cd mp4-to-mp3/
 ```
-Make the file runable.
+Make the file executable.
 ```
 $ chmod +x convert.sh
 ```
